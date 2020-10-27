@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    position: absolute;
+    height: 100vh;
+    width: 100vw; 
+    overflow: hidden;
+    background: url(thunder.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.box {
+    position: absolute;
+    overflow: hidden;
+    background: url(thunder.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
